@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Profiles | Global Variables</description>
+   <name>Login_OrangeHRM</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c93c1bd6-862f-4c09-818d-1a1e77c83123</testCaseGuid>
+</TestCaseEntity>

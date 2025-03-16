@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Record Mode</description>
+   <name>Login_KatalonDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e0f7ac07-e906-4b94-876f-14caa3ee146d</testCaseGuid>
+</TestCaseEntity>

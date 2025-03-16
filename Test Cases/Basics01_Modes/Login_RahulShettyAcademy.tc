@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Script Mode</description>
+   <name>Login_RahulShettyAcademy</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a50bf0e3-5b1b-4d2c-a920-1c0fa8306644</testCaseGuid>
+</TestCaseEntity>

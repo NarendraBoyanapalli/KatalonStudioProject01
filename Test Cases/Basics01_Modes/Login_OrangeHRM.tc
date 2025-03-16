@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Manual Mode</description>
+   <name>Login_OrangeHRM</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5e08ba34-7636-4de6-b993-1cbf39c67b0c</testCaseGuid>
+</TestCaseEntity>

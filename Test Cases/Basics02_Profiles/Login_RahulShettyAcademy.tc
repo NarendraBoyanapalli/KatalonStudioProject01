@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Profiles | Private + Local + Global Variables</description>
+   <name>Login_RahulShettyAcademy</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>261684b7-2d3b-4758-95f7-5a510b59f3c3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8d8dc71d-a075-44bd-a4d9-5d07b41e4182</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2bec8bbd-8d00-4212-8e41-3558a4800815</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>920af05a-efba-4c37-ae81-2ca05091a8b3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.URL</defaultValue>
+      <description></description>
+      <id>8d8dc71d-a075-44bd-a4d9-5d07b41e4182</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.USERNAME</defaultValue>
+      <description></description>
+      <id>2bec8bbd-8d00-4212-8e41-3558a4800815</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.PASSWORD</defaultValue>
+      <description></description>
+      <id>920af05a-efba-4c37-ae81-2ca05091a8b3</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Internal Data File</description>
+   <name>Login_KatalonDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>68ea16fc-4d33-42a6-8998-b96ad2bda53a</testCaseGuid>
+</TestCaseEntity>

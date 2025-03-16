@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>RAHULSHETTY ACADEMY</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>RAHULSHETTY ACADEMY</description>
+      <initValue>'https://rahulshettyacademy.com/loginpagePractise/'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'rahulshettyacademy'</initValue>
+      <name>USERNAME</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1PiAXA7e6bXYOnY+D2FYUg=='</initValue>
+      <name>PASSWORD</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

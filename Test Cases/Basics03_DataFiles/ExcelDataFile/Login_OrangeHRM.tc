@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Excel Data File | Data Binding</description>
+   <name>Login_OrangeHRM</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8ad50c23-59ec-4f77-b438-8c34f5971aed</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>ee0ad187-0319-4b12-9622-b836143be319</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TestData01/LoginData_OrangeHRM</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>ee0ad187-0319-4b12-9622-b836143be319</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>50e86446-a29b-4859-9716-905d1b359b8f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>ee0ad187-0319-4b12-9622-b836143be319</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>aba30409-16ab-42ce-abaf-34cb5c956c64</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>50e86446-a29b-4859-9716-905d1b359b8f</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>aba30409-16ab-42ce-abaf-34cb5c956c64</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Internal Data File</description>
+   <name>Login_OrangeHRM</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2912472a-5519-44ba-bb2b-001ff8696e0b</testCaseGuid>
+</TestCaseEntity>

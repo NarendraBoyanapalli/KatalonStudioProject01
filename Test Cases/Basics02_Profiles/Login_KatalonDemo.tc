@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Profiles | Global Variables</description>
+   <name>Login_KatalonDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2cf8287f-1aef-4b4d-9697-3251366716f7</testCaseGuid>
+</TestCaseEntity>

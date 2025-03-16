@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case Chaining</description>
+   <name>Appointment_KatalonDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5a94c36c-e8f4-4d85-b9e5-471680638922</testCaseGuid>
+</TestCaseEntity>
