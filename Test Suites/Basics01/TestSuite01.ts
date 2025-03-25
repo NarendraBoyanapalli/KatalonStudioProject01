@@ -12,31 +12,135 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>d9e2fed7-1c6d-4be1-95c4-aaba874cdd2d</testSuiteGuid>
    <testCaseLink>
-      <guid>20792b91-700e-4504-a889-d0ccb4468423</guid>
+      <guid>8a7a1be4-672f-4a61-b6a0-4f70abea0dac</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Basics01_Modes/Appointment_KatalonDemo</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>efeb32f5-b347-4019-a2a5-6b4ea132b028</guid>
+      <guid>4f125cf2-0eb3-4db8-b355-b47d9e2fa3cb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Basics01_Modes/Login_KatalonDemo</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>b84ffb43-3398-4324-a5ce-3b97174e9cf7</guid>
+      <guid>bdb7a935-8065-431a-8aac-f0108b21bec2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Basics01_Modes/Login_OrangeHRM</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>15bf88c4-83bd-41ed-b5be-b252d2cf8af8</guid>
+      <guid>2eeb1111-875b-4306-b455-9362fc2604c7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Basics01_Modes/Login_RahulShettyAcademy</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e6435b68-e975-4ed6-bc82-2dc8dc23ce48</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Basics02_Profiles/Login_KatalonDemo</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2fd56896-4337-44b3-828a-735b8c11b033</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Basics02_Profiles/Login_OrangeHRM</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>78c26ddb-5e48-44f3-b751-7139ecbbd803</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Basics02_Profiles/Login_RahulShettyAcademy</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8d8dc71d-a075-44bd-a4d9-5d07b41e4182</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2bec8bbd-8d00-4212-8e41-3558a4800815</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>920af05a-efba-4c37-ae81-2ca05091a8b3</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b90a4758-416d-4f13-a6be-e1741711c686</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Basics03_DataFiles/DBDataFile/Login_KatalonDemo</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>dd5d48a3-90c6-43f5-a43f-151aff33d28e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c9d19f99-6912-435a-95b3-77c88e360573</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8e40fe18-0688-4e34-9db0-cbd43d9e21ea</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>17cdea48-72ff-46b9-8e08-ad79e9d18375</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Basics03_DataFiles/ExcelDataFile/Login_OrangeHRM</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>50e86446-a29b-4859-9716-905d1b359b8f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>aba30409-16ab-42ce-abaf-34cb5c956c64</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>988dd29b-731f-4b0f-bcc4-eea49c535eaf</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Basics03_DataFiles/InternalDataFile/Login_KatalonDemo</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>353fb9c8-cfa0-4c7a-ba77-48e95c6092a0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Basics03_DataFiles/InternalDataFile/Login_OrangeHRM</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>943cecdc-72a5-47d4-8650-ee11730c6866</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Basics03_DataFiles/InternalDataFile/Login_RahulShettyAcademy</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

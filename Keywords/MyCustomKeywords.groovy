@@ -43,6 +43,6 @@ class MyCustomKeywords {
 	 */
 	@Keyword
 	def customkeyword() {
-		KeywordUtil.logInfo("This is Custom Keyword")
+		KeywordUtil.logInfo("THIS IS A CUSTOM KEYWORD.")
 	}
 }
